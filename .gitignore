@@ -1,2 +1,5 @@
 node_modules
 app/node_modules
+package-lock.json
+__MACOSX/
+.vscode/

@@ -1,0 +1,40 @@
+{
+  "kittens": [
+    {
+      "name": "Edgarda",
+      "color": "rouge",
+      "race": "persan",
+      "dateOfBirth": "2019-03-21T08:41:09.019Z",
+      "sex": 0,
+      "adopt": true,
+      "id": "sktwicrzjttwha1v"
+    },
+    {
+      "name": "Loilol",
+      "color": "grey",
+      "race": "siamois",
+      "dateOfBirth": "2019-03-18T08:41:09.019Z",
+      "sex": 1,
+      "adopt": true,
+      "id": "sktwisqdqsdzjttwha1v"
+    },
+    {
+      "name": "machin",
+      "color": "peau",
+      "race": "égyptien",
+      "dateOfBirth": "2019-03-15T08:41:09.019Z",
+      "sex": 0,
+      "adopt": true,
+      "id": "sktwdfggdfrzjttwha1v"
+    },
+    {
+      "name": "louis",
+      "color": "gris",
+      "race": "sacré de Birmanie",
+      "dateOfBirth": "2019-03-01T08:41:09.019Z",
+      "sex": 1,
+      "adopt": true,
+      "id": "sktwighplpjttwha1v"
+    }
+  ]
+}
